@@ -12,7 +12,7 @@ Trading simulation
 ~~~~ 
 
 
-##Install
+## Install
 ~~~~ 
 pip install -r requirements.txt
 
