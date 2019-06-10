@@ -20,3 +20,11 @@ pip install -r requirements.txt
 pip install git+https://github.com/doghoc/bitfinex-api-py.git
 
 ~~~~
+
+## Usage
+~~~~ 
+python3 main.py
+~~~~ 
+
+The trained models are located under {root}/models
+
